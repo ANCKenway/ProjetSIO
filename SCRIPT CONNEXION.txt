@@ -1,18 +1,5 @@
-//CREATION REPERTOIRE
-
-echo "# ProjetSIO" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
+//DECLARER GITHUB DOSSIER
 git remote add origin https://github.com/ANCKenway/ProjetSIO.git
 git push -u origin master
 
-
-
-
-
-
-//PUSH
-
-git remote add origin https://github.com/ANCKenway/ProjetSIO.git
-git push -u origin master
+//RECUPERER DOSSIER
