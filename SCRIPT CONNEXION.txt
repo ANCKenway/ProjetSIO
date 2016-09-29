@@ -1,5 +1,10 @@
-//DECLARER GITHUB DOSSIER
+//DECLARER GITHUB DOSSIER(UNE SEULE FOIS)
+
 git remote add origin https://github.com/ANCKenway/ProjetSIO.git
+
+//ENVOYER DOSSIER
+
+git add .
 git push -u origin master
 
 //RECUPERER DOSSIER
