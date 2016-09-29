@@ -3,3 +3,5 @@ git remote add origin https://github.com/ANCKenway/ProjetSIO.git
 git push -u origin master
 
 //RECUPERER DOSSIER
+
+git clone https://github.com/ANCKenway/ProjetSIO.git
