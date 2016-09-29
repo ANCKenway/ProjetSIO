@@ -10,4 +10,4 @@ git push -u origin master
 
 //RECUPERER DOSSIER
 
-git clone https://github.com/ANCKenway/ProjetSIO.git
+git pull https://github.com/ANCKenway/ProjetSIO.git
