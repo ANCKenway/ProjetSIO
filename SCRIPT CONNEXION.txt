@@ -5,6 +5,7 @@ git remote add origin https://github.com/ANCKenway/ProjetSIO.git
 //ENVOYER DOSSIER
 
 git add .
+git commit -a -m "Noter les changements de la version"
 git push -u origin master
 
 //RECUPERER DOSSIER
